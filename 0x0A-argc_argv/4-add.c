@@ -65,7 +65,7 @@ return (1);
 count++;
 }
 
-printf(&quot;%d\n&quot;, sum); /*print sum*/
+printf(& quot; %d\n &quot; , sum); /*print sum*/
 
 return (0);
 }
